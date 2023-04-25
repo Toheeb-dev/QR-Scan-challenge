@@ -26,6 +26,10 @@ HTML Structuring
 CSS styling
 Responsiveness
 Review
+
+### Links
+- Live Site URL: [https://thor-qrscan.netlify.app/](https://thor-qrscan.netlify.app/)
+
 ### Built with
 
 - Semantic HTML5 markup
